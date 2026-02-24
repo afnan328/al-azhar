@@ -36,7 +36,7 @@ export default function Menu() {
                 <Link href="/about" style={{color:'#02377D ',fontFamily:"Poppins"}}>About</Link>
             </li>
             <li>
-                <Link href="/services" style={{color:'#02377D ',fontFamily:"Poppins"}}>services</Link>
+                <Link href="/" style={{color:'#02377D ',fontFamily:"Poppins"}}>services</Link>
             </li>
             {/* <li className="dropdown">
                 <Link href="#">Pages</Link>

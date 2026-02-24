@@ -51,13 +51,13 @@ AL-AZHAR AL-ARABIA is an engineering and technology company in Saudi Arabia spec
                             </li>
                             </ul> */}
                             <h3 className="blog-two__title">
-                            <Link href="/services">
+                            <Link href="/">
                             Physical Security Systems
                             </Link>
                             </h3>
                         </div>
                         <div className="blog-two__btn-box">
-                            <Link href="/services" className="thm-btn blog-two__btn" >
+                            <Link href="/" className="thm-btn blog-two__btn" >
                             Read more
                             <span />
                             </Link>
@@ -105,13 +105,13 @@ AL-AZHAR AL-ARABIA is an engineering and technology company in Saudi Arabia spec
                             </li>
                             </ul> */}
                             <h3 className="blog-two__title">
-                            <Link href="/services">
+                            <Link href="/">
                             Data Center Infrastructure
                             </Link>
                             </h3>
                         </div>
                         <div className="blog-two__btn-box">
-                            <Link href="/services" className="thm-btn blog-two__btn">
+                            <Link href="/" className="thm-btn blog-two__btn">
                             Read more
                             <span />
                             </Link>
@@ -155,14 +155,14 @@ AL-AZHAR AL-ARABIA is an engineering and technology company in Saudi Arabia spec
                             </li>
                             </ul> */}
                             <h3 className="blog-two__title">
-                            <Link href="/services">
+                            <Link href="/">
                             Low Current & ELV Systems
 
                             </Link>
                             </h3>
                         </div>
                         <div className="blog-two__btn-box">
-                            <Link href="/services" className="thm-btn blog-two__btn">
+                            <Link href="/" className="thm-btn blog-two__btn">
                             Read more
                             <span />
                             </Link>
@@ -202,13 +202,13 @@ AL-AZHAR AL-ARABIA is an engineering and technology company in Saudi Arabia spec
                             </li>
                             </ul> */}
                             <h3 className="blog-two__title">
-                            <Link href="/services">
+                            <Link href="/">
                             System Integration & Operations Support
                             </Link>
                             </h3>
                         </div>
                         <div className="blog-two__btn-box">
-                            <Link href="/services" className="thm-btn blog-two__btn">
+                            <Link href="/" className="thm-btn blog-two__btn">
                             Read more
                             <span />
                             </Link>

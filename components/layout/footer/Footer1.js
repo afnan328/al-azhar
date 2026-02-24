@@ -80,7 +80,7 @@ export default function Footer1() {
                         </li>
                         
                         <li>
-                            <Link href="/services">Service</Link>
+                            <Link href="/">Service</Link>
                         </li>
                         <li>
                             <Link href="/contact">Contact</Link>
@@ -98,14 +98,14 @@ export default function Footer1() {
                         </div>
                         <ul className="footer-widget__services-list list-unstyled">
                         <li>
-                            <Link href="/services">
+                            <Link href="/">
                             <span className="icon-angle-left"   style={{color:'#8C5EF6 '}}/>
                             Physical Security Systems
 
                             </Link>
                         </li>
                         <li>
-                            <Link href="/services">
+                            <Link href="/">
                             <span className="icon-angle-left"   style={{color:'#8C5EF6 '}}/>
                             Data Center Infrastructure
 
@@ -113,7 +113,7 @@ export default function Footer1() {
                             </Link>
                         </li>
                         <li>
-                            <Link href="/services">
+                            <Link href="/">
                             <span className="icon-angle-left"   style={{color:'#8C5EF6 '}}/>
                            Low Current & ELV Systems
 
@@ -121,7 +121,7 @@ export default function Footer1() {
                             </Link>
                         </li>
                         <li>
-                            <Link href="/services">
+                            <Link href="/">
                             <span className="icon-angle-left"   style={{color:'#8C5EF6 '}}/>
                             System Integration & Operations Support
                             </Link>
